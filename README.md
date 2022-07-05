@@ -1,3 +1,3 @@
 # responsiveness-and-media-query
-https://github.com/TolueneM
+https://toluenem.github.io/media%20and%20responsiveness/
 A Zuri Assignment
